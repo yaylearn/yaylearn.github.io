@@ -66,6 +66,10 @@ body {
   border-radius: 12px 12px 0px 0px;
 }
 
+.button:hover {
+  background-color: #adadad;
+  color: #505050;
+}
 abbr {
   text-decoration: none;
 }

@@ -67,9 +67,10 @@ body {
 }
 
 .button:hover {
-  background-color: #adadad;
-  color: #505050;
+  background-color: #fff;
+  color: #000;
 }
+
 abbr {
   text-decoration: none;
 }

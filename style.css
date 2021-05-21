@@ -10,6 +10,10 @@
   background: #000;
 }
 
+.alias {
+  cursor: alias;
+}
+
 body {
   margin: 0;
   font-family: 'Source Sans Pro', sans-serif;

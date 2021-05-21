@@ -126,3 +126,25 @@ abbr {
   color:#fff;
   font-size: 10px;
 }
+
+.logbutton {
+  height:36px;
+  width:auto;
+  border-radius:24px;
+  border:none;
+  margin:5px;
+  background-color:#505050;
+  color:#fff;
+  cursor:pointer;
+  padding:5px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.logtext {
+  height:36px;
+  width:200px;
+  border-radius:24px;
+  border-style:solid;
+  margin:5px;
+  font-family: 'Source Sans Pro', sans-serif;
+}

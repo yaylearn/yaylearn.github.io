@@ -53,7 +53,9 @@ body {
 
 .aico {
   border-radius: 24px;
-  border: none;
+  border: solid;
+  border-width: 5px;
+  border-color: #000;
 }
 
 .nav a {
